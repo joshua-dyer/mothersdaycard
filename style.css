@@ -48,7 +48,7 @@ body {
 .decorative-border {
     width: calc(100% - 20px); /* Adjust for padding */
     height: calc(100% - 20px); /* Adjust for padding */
-    border: 5px groove #6a5acd; /* Simple dashed border */
+    border: 5px groove #6a5acd;
     padding: 10px;
     display: flex;
     flex-direction: column;
